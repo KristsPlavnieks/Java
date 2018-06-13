@@ -1,0 +1,90 @@
+import java.util.Scanner;
+
+public class Day1 {
+
+	public static void main(String[] args) {
+		Scanner scanner= new Scanner(System.in);
+		
+		/*System.out.println("Ievadi skaitli viens: ");
+		int sk1 = scanner.nextInt();
+		System.out.println("Ievadi skaitli divi: ");
+		int sk2 = scanner.nextInt();
+		
+		System.out.println("Summa ir : " + (sk1 +sk2));
+
+		
+		System.out.println("Ievadi sk1: ");
+		int s1 = scanner.nextInt();
+		System.out.println("Ievadi sk2: ");
+		int s2 = scanner.nextInt();
+		System.out.println("Ievadi sk3: ");
+		int s3 = scanner.nextInt();
+		
+		System.out.print("Avg ir: " + (s1 + s2 + s3) / 3);
+		*/
+		
+		/*System.out.println("Ievadi skaitli: ");
+		int skaitlis = scanner.nextInt();
+		
+		if(skaitlis < 50 || skaitlis == 100) {
+			System.out.println(false);
+		}
+		else {
+			System.out.println(true);
+		}
+		*/
+		
+		/*System.out.println("Ievadi skaitli a : ");
+		int a = scanner.nextInt();
+		System.out.println("IEvadi skaitli b : ");
+		int b = scanner.nextInt();
+		
+		int summa = a + b;
+		int nav = 20;
+		
+		if(summa <10 || summa > 19 ) {
+			System.out.println(summa);
+		}
+		else {
+			System.out.println(nav);
+		}
+		*/
+		
+		
+		/*System.out.println("Ievadi vardu: ");
+		String v1 = scanner.next();
+		System.out.println("Ievadi otru vardu:");
+		String v2 = scanner.next();
+		
+		if(v1.length() > v2.length() || v1.length() == v2.length() ) {
+			System.out.println(v2 + v1 + v2);
+		}
+		else{
+			System.out.println(v1 +v2 + v1);
+		}
+		*/
+		
+		System.out.println("Ievadi skaitli 1: ");
+		int a = scanner.nextInt();
+		System.out.println("Ievadi skaitli 1: ");
+		int b = scanner.nextInt();
+		System.out.println("Ievadi skaitli 1: ");
+		int c = scanner.nextInt();
+		
+		int summa = a + b + c ;
+		
+		if(a == b || b == c || c == a) {
+			System.out.print(0);
+		}
+		else if ( )
+		
+		
+		
+		
+	}
+	
+		
+	
+	
+
+}

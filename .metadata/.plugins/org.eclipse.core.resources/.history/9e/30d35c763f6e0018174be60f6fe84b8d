@@ -1,0 +1,16 @@
+import java.util.Scanner;
+
+public class Day1 {
+
+	public static void main(String[] args) {
+		Scanner scanner= new Scanner(System.in);
+		System.out.println("Ievadi skaitli viens: ");
+		int sk1 = scanner.nextInt();
+		System.out.println("Ievadi skaitli divi: ");
+		int sk2 = scanner.nextInt();
+		
+		System.out.println(sk1 +sk2);
+
+	}
+
+}
