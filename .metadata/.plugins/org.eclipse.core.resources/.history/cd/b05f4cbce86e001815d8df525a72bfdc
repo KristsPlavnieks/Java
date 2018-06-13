@@ -144,8 +144,8 @@ public class Day1 {
 		int sk = scanner.nextInt();
 		int i = 0;
 		
-		for(i = 0; i <= sk ; i++) {
-			System.out.println(i);
+		for(i = 0; i >= sk ; i++) {
+			
 		}
 			
 		
